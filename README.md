@@ -10,6 +10,8 @@ This repository provides datasets representing the **Indian Railway Network (IRN
 > Koyena Chowdhury, Paramita Koley, Abhijnan Chakraborty, Saptarshi Ghosh
 > [arXiv:2510.01262](https://arxiv.org/abs/2510.01262)
 
+> Recently accepted at **IEEE Transactions on Intelligent Transportation Systems (T-ITS)**
+
 K. Chowdhury, A. Chakraborty, and S. Ghosh are with the Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, West Bengal – 721302, India.
 P. Koley is with the International Institute of Information Technology, Bhubaneswar, Odisha – 752054, India.
 
