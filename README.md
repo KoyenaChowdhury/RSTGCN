@@ -8,7 +8,7 @@ This repository provides datasets representing the **Indian Railway Network (IRN
 
 > **RSTGCN: Railway-centric Spatio-Temporal Graph Convolutional Network for Train Delay Prediction**
 > 
-> Koyena Chowdhury, Paramita Koley, Abhijnan Chakraborty, Saptarshi Ghosh
+> **Koyena Chowdhury**, Paramita Koley, Abhijnan Chakraborty, Saptarshi Ghosh
 > 
 > Published at [**IEEE Transactions on Intelligent Transportation Systems (T-ITS)**](https://ieeexplore.ieee.org/abstract/document/11672252)
 > 
