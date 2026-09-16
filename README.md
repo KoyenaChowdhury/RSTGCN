@@ -7,8 +7,11 @@ Datasets for Indian Railway network topology, station-to-zone mappings, schedule
 This repository provides datasets representing the **Indian Railway Network (IRN)** at the station, network, and train-route levels, spanning **4,735 stations across 17 zones** — one of the most comprehensive Indian railway datasets curated for research to date. The datasets combine railway network connectivity, station-to-zone mappings, scheduled train routes, and observed train arrival/departure delays, as described in the following paper:
 
 > **RSTGCN: Railway-centric Spatio-Temporal Graph Convolutional Network for Train Delay Prediction**
+> 
 > Koyena Chowdhury, Paramita Koley, Abhijnan Chakraborty, Saptarshi Ghosh
+> 
 > Published at **[IEEE Transactions on Intelligent Transportation Systems (T-ITS)]** (https://ieeexplore.ieee.org/abstract/document/11672252)
+> 
 > Also available at [arXiv:2510.01262](https://arxiv.org/abs/2510.01262)
 
 K. Chowdhury, A. Chakraborty, and S. Ghosh are with the Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, West Bengal – 721302, India.
