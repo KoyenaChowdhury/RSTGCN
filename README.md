@@ -10,7 +10,7 @@ This repository provides datasets representing the **Indian Railway Network (IRN
 > 
 > Koyena Chowdhury, Paramita Koley, Abhijnan Chakraborty, Saptarshi Ghosh
 > 
-> Published at **[IEEE Transactions on Intelligent Transportation Systems (T-ITS)]** (https://ieeexplore.ieee.org/abstract/document/11672252)
+> Published at [**IEEE Transactions on Intelligent Transportation Systems (T-ITS)**](https://ieeexplore.ieee.org/abstract/document/11672252)
 > 
 > Also available at [arXiv:2510.01262](https://arxiv.org/abs/2510.01262)
 
