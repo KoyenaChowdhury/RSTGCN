@@ -8,9 +8,8 @@ This repository provides datasets representing the **Indian Railway Network (IRN
 
 > **RSTGCN: Railway-centric Spatio-Temporal Graph Convolutional Network for Train Delay Prediction**
 > Koyena Chowdhury, Paramita Koley, Abhijnan Chakraborty, Saptarshi Ghosh
-> [arXiv:2510.01262](https://arxiv.org/abs/2510.01262)
-
-> Recently accepted at **IEEE Transactions on Intelligent Transportation Systems (T-ITS)**
+> Published at **[IEEE Transactions on Intelligent Transportation Systems (T-ITS)]** (https://ieeexplore.ieee.org/abstract/document/11672252)
+> Also available at [arXiv:2510.01262](https://arxiv.org/abs/2510.01262)
 
 K. Chowdhury, A. Chakraborty, and S. Ghosh are with the Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, West Bengal – 721302, India.
 P. Koley is with the International Institute of Information Technology, Bhubaneswar, Odisha – 752054, India.
@@ -91,7 +90,7 @@ Maps each railway station code to its corresponding **Indian Railways zone**, as
 {
   "AADR": "NR",
   "AAG": "CR",
-  "AAL": "SECR",
+  "AAL": "SECR"
 }
 ```
 
@@ -104,9 +103,6 @@ A few of the zone codes that appear above:
 | NR | Northern Railway |
 | CR | Central Railway |
 | SECR | South East Central Railway |
-| SR | Southern Railway |
-| WR | Western Railway |
-| NWR | North Western Railway |
 
 The full set of zone codes (17 in total) is available directly in the JSON file.
 
@@ -123,7 +119,9 @@ Three datasets provide detailed train-level operational information for Septembe
 
 ### 3. `train_delays_Sep2024.json`
 
-Train delay information in a hierarchical structure:
+Train delay information in a hierarchical structure.
+
+This dataset file is also available at: [https://datahubkgp.org/datasets/79deb8a0a7d361bb4f27](https://datahubkgp.org/datasets/79deb8a0a7d361bb4f27)
 
 ```text
 Train
@@ -258,14 +256,26 @@ print(routes[routes["trainNumber"] == 12303])
 
 If you use these datasets in your research, please cite:
 
+**Published version (IEEE T-ITS):**
+
+```bibtex
+@article{chowdhury2026rstgcn,
+  title     = {RSTGCN: Railway-centric spatio-temporal graph convolutional network for train delay prediction},
+  author    = {Chowdhury, Koyena and Koley, Paramita and Chakraborty, Abhijnan and Ghosh, Saptarshi},
+  journal   = {IEEE Transactions on Intelligent Transportation Systems},
+  year      = {2026},
+  publisher = {IEEE}
+}
+```
+
+**arXiv preprint:**
+
 ```bibtex
 @article{chowdhury2025rstgcn,
   title   = {RSTGCN: Railway-centric spatio-temporal graph convolutional network for train delay prediction},
   author  = {Chowdhury, Koyena and Koley, Paramita and Chakraborty, Abhijnan and Ghosh, Saptarshi},
   journal = {arXiv preprint arXiv:2510.01262},
   year    = {2025}
-}
-
 }
 ```
 
